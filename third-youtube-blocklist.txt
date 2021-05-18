@@ -1,23 +1,4 @@
-r1---sn-aigzrnld.googlevideo.com
-r2---sn-aigzrnld.googlevideo.com
-r3---sn-aigzrnld.googlevideo.com
-r4---sn-aigzrnld.googlevideo.com
-r5---sn-aigzrnld.googlevideo.com
-r6---sn-aigzrnld.googlevideo.com
-r7---sn-aigzrnld.googlevideo.com
-r8---sn-aigzrnld.googlevideo.com
-r9---sn-aigzrnld.googlevideo.com
-r10---sn-aigzrnld.googlevideo.com
-r11---sn-aigzrnld.googlevideo.com
-r12---sn-aigzrnld.googlevideo.com
-r13---sn-aigzrnld.googlevideo.com
-r14---sn-aigzrnld.googlevideo.com
-r15---sn-aigzrnld.googlevideo.com
-r16---sn-aigzrnld.googlevideo.com
-r17---sn-aigzrnld.googlevideo.com
-r18---sn-aigzrnld.googlevideo.com
-r19---sn-aigzrnld.googlevideo.com
-r20---sn-aigzrnld.googlevideo.com
+
  
 
 
