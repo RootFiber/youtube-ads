@@ -30,7 +30,7 @@ r20---sn-aigzrner7.googlevideo.com
 r1---sn-aigl6ney.googlevideo.com
 r2---sn-aigl6ney.googlevideo.com
 r3---sn-aigl6ney.googlevideo.com
-r4---sn-aigl6ney.googlevideo.com
+#
 r5---sn-aigl6ney.googlevideo.com
 r6---sn-aigl6ney.googlevideo.com
 r7---sn-aigl6ney.googlevideo.com
@@ -51,7 +51,7 @@ r20---sn-aigl6ney.googlevideo.com
 
 
 
-r1---sn-aigl6ned.googlevideo.com
+#
 r2---sn-aigl6ned.googlevideo.com
 r3---sn-aigl6ned.googlevideo.com
 r4---sn-aigl6ned.googlevideo.com
