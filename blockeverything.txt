@@ -216,3 +216,8 @@ r17---sn-aigzrnld.googlevideo.com
 r18---sn-aigzrnld.googlevideo.com
 r19---sn-aigzrnld.googlevideo.com
 r20---sn-aigzrnld.googlevideo.com
+
+# Query Log blacklist choise
+r2---sn-aigzrn7s.googlevideo.com
+r3---sn-aigzrn7z.googlevideo.com
+r3---sn-4g5e6nsd.googlevideo.com
